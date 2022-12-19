@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.0a423153.css",
+    "main.js": "/React-portfolio/static/js/main.26998fa2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cover.jpg": "/React-portfolio/static/media/cover.1b23a4b7e6e67112d0c0.jpg",
+    "static/media/unit.jpg": "/React-portfolio/static/media/unit.7c1da5059ce5384081ac.jpg",
+    "static/media/cactus-shop.jpg": "/React-portfolio/static/media/cactus-shop.9c356995dd6de94b5989.jpg",
+    "static/media/crypto.jpg": "/React-portfolio/static/media/crypto.2eeb8d7992b304e240c0.jpg",
+    "static/media/mntn.jpg": "/React-portfolio/static/media/mntn.466b39f19564652d1836.jpg",
+    "static/media/sun.svg": "/React-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/React-portfolio/static/media/moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "static/media/git.svg": "/React-portfolio/static/media/git.44b4f429faaf8454a9ea7e0383ab4348.svg",
+    "static/media/insta.svg": "/React-portfolio/static/media/insta.0eb276eadf70d257e5c999c90a882361.svg",
+    "static/media/vk.svg": "/React-portfolio/static/media/vk.4908a58d26246688a344ee2971ee92cf.svg",
+    "index.html": "/React-portfolio/index.html",
+    "static/media/chevron-down.svg": "/React-portfolio/static/media/chevron-down.cac2e99945e6879bf59dc2faae73606e.svg",
+    "main.0a423153.css.map": "/React-portfolio/static/css/main.0a423153.css.map",
+    "main.26998fa2.js.map": "/React-portfolio/static/js/main.26998fa2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a423153.css",
+    "static/js/main.26998fa2.js"
+  ]
+}
